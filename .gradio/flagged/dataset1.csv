@@ -1,0 +1,3 @@
+Gender,Age,Height (in meters),Weight (in kg),Family History with Overweight,FAVC (High Calorie Food),FCVC (Vegetable Intake),NCP (Meals per day),CAEC (Food Between Meals),SMOKE,CH2O (Water Intake),SCC (Calorie Monitor),FAF (Physical Activity),TUE (Screen Time),CALC (Alcohol),Transport,output,timestamp
+Male,18,1.76,85,yes,yes,2,4,Sometimes,no,2,yes,2,2,no,Public_Transportation,Predicted Obesity Category: Overweight_Level_I,2025-07-07 01:09:29.581128
+,0,0,0,,,1,1,,,1,,0,0,,,,2025-07-07 01:15:50.686971
